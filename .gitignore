@@ -3,6 +3,8 @@ logs
 *.log
 npm-debug.log*
 
+package-lock.json
+
 # Runtime data
 pids
 *.pid
@@ -83,3 +85,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Testing
+test.js
+test2.js
+test
+cache/*
